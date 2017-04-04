@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="./sql_js/sql.js"></script>
+  <script src="displayTable.js"></script>
+  <link rel="stylesheet" type="text/css" href="display.css">
+  <head>
+    <title>Log Database Loader</title>
+  </head>
+
+  <body>
+    <div id = "database-display">
+    </div>
+        <table>
+          <thead id = "display-columns">
+            <tr>
+              <th>
+                Please choose a database file to load below.
+              </th>
+              <th>
+              </th>
+            </tr>
+          </thead>
+          <tbody id = "display-entries">
+
+          </tbody>
+        </table>
+
+        <input type="file" id="dbfile">
+  </body>
+
+</html>

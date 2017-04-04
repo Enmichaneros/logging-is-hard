@@ -1,0 +1,343 @@
+﻿Level	Date and Time	Source	Event ID	Task Category
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 6:00:37 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 5:44:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 3:58:11 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 3:47:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Warning	3/31/2017 3:31:05 PM	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 2 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 187707 seconds since the last report.
+Warning	3/31/2017 3:31:05 PM	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 1 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 187707 seconds since the last report.
+Warning	3/31/2017 3:31:05 PM	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 0 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 187707 seconds since the last report.
+Error	3/31/2017 3:27:31 PM	SecurityCenter	16	None	Error while updating Windows Defender status to SECURITY_PRODUCT_STATE_ON (error BA060000).
+Error	3/31/2017 3:27:31 PM	SecurityCenter	16	None	Error while updating Windows Defender status to SECURITY_PRODUCT_STATE_ON (error BA060000).
+Error	3/31/2017 3:23:09 PM	SecurityCenter	16	None	Error while updating Windows Defender status to SECURITY_PRODUCT_STATE_ON (error BA060000).
+Error	3/31/2017 3:23:09 PM	SecurityCenter	16	None	Error while updating Windows Defender status to SECURITY_PRODUCT_STATE_ON (error BA060000).
+Warning	3/31/2017 3:19:46 PM	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 3 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 187707 seconds since the last report.
+Error	3/31/2017 11:53:50 AM	SecurityCenter	16	None	Error while updating Windows Defender status to SECURITY_PRODUCT_STATE_ON (error BA060000).
+Error	3/31/2017 11:53:50 AM	SecurityCenter	16	None	Error while updating Windows Defender status to SECURITY_PRODUCT_STATE_ON (error BA060000).
+Warning	3/31/2017 11:50:19 AM	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Error	3/31/2017 11:50:15 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 11:50:15 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 11:50:15 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 11:50:15 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 11:50:15 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 11:50:14 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 11:50:14 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 11:50:14 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 11:50:14 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 11:50:14 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 10:01:03 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 10:00:55 AM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 9:38:47 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 9:14:45 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 8:50:39 AM	SideBySide	35	None	"Activation context generation failed for ""C:\Program Files (x86)\Microsoft Office\root\Office16\lync.exe.Manifest"".Error in manifest or policy file ""C:\Program Files (x86)\Microsoft Office\root\Office16\UccApi.DLL"" on line 1. Component identity found in manifest does not match the identity of the component requested. Reference is UccApi,processorArchitecture=""AMD64"",type=""win32"",version=""16.0.0.0"". Definition is UccApi,processorArchitecture=""x86"",type=""win32"",version=""16.0.0.0"". Please use sxstrace.exe for detailed diagnosis."
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 8:47:53 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:52 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:52 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:52 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/31/2017 8:47:52 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/31/2017 8:47:52 AM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Warning	3/31/2017 8:47:51 AM	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Error	3/31/2017 8:47:44 AM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	3/31/2017 8:47:44 AM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 10:46:28 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 10:46:24 PM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 10:20:45 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Warning	3/30/2017 9:22:59 PM	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 9:22:55 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 9:22:54 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 9:22:51 PM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	3/30/2017 9:22:51 PM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:26:26 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:23 PM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	3/30/2017 8:26:06 PM	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:26:03 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:26:01 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:00 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:00 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:00 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:26:00 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:26:00 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:25:59 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:25:59 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:25:59 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:25:59 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:25:59 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:42 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:37 PM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	3/30/2017 8:04:24 PM	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name _ldap._tcp.dc._msdcs.WORKGROUP timed out after none of the configured DNS servers responded.
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:20 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:20 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:20 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:20 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:20 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:19 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 8:04:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Warning	3/30/2017 8:04:17 PM	LMS	2001	LMS	LMS cannot connect to Intel(R) MEI driver
+
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 7:57:12 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 7:57:06 PM	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	3/30/2017 6:02:21 PM	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name gbbbdwiso timed out after none of the configured DNS servers responded.
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 6:02:21 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=254, authorId=311, vendorId=14122, vendorType=1
+Error	3/30/2017 6:02:18 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=21, authorId=311, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=43, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=25, authorId=9, vendorId=0, vendorType=0
+Error	3/30/2017 6:02:17 PM	Microsoft-Windows-EapHost	2002	Peer	Skipping: Eap method DLL path validation failed. Error: typeId=17, authorId=9, vendorId=0, vendorType=0
